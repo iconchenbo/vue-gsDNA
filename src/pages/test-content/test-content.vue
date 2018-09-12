@@ -20,8 +20,8 @@
 </template>
 
 <script>
-//  import HeaderAll from '../../components/HeaderAll/HeaderAll.vue'
-  import HeaderAll from '../../components/HeaderAll/HeaderNav.vue'
+  import HeaderAll from '../../components/HeaderAll/HeaderAll.vue'
+//  import HeaderAll from '../../components/HeaderAll/HeaderNav.vue'
   import BlueTitle from '../../components/BlueTitle/BlueTitle.vue'
   import TestInfo from '../../components/TestInfo/TestInfo.vue'
   import TestTopic from '../../components/TestTopic/TestTopic.vue'
@@ -43,7 +43,6 @@
 
 <style>
   #wrap-test{
-
     background-color: white;
   }
 
